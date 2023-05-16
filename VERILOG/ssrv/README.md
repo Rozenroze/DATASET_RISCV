@@ -8,7 +8,7 @@ SSRV(Super-Scalar RISC-V) --- суперскалярное внепорядко�
 ## Принципиальная схема
 ![image](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/6e50890c-a2ef-4328-bed6-56ffc1fa7b1b)
 
-Данные синтеза доступны по ссылке на [Яндекс диск](https://disk.yandex.ru/d/WoJWMWOvAvWjBQ) 
+Данные синтеза доступны по ссылке на [Яндекс диск](https://disk.yandex.ru/d/6rTf3Hkqb-gXNw) 
 
 ## Метрики синтеза OpenLane
 ![openlane_graph_ssrv](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/627b792b-2813-40d6-b1f1-e40e9b0dda6d)
