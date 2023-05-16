@@ -8,11 +8,12 @@
 5. SUB  
 
 Ссылка на авторский репозитарий [тут](https://github.com/zhelnio/schoolRISCV)  
-
-Данные синтеза доступны по ссылке на [Яндекс диск](https://disk.yandex.ru/d/PEnsOhkM_2gtew) 
     
 ## Принципиальная схема
-![schoolRISCV](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/5edf4f76-6201-4511-ba63-03640bbaa11e)
+![schoolRISCV](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/5edf4f76-6201-4511-ba63-03640bbaa11e)  
+
+Данные синтеза доступны по ссылке на [Яндекс диск](https://disk.yandex.ru/d/PEnsOhkM_2gtew) 
+
 ## Метрики синтеза OpenLane
 ![openlane_graph_school_riscv](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/33ecdd12-46ac-4c99-b930-a39cdc7a40c9)
 ## Метрики синтеза Design Compiler
