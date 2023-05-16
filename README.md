@@ -2,7 +2,6 @@
 Датасет реализаций процессорной архитектуры RISC-V.
 	|№|РЕАЛИЗАЦИЯ|АВТОР| 
 	| --- | --- | --- |
-	| -------------------VERILOG---------------- |
 	| 1| school_riscv| zhelnio|
 	| 2| ultraembedded_riscv| ultraembedded | 
 	| 3| ultraembedded_biscv| ultraembedded |
