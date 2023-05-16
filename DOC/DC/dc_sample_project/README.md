@@ -2,4 +2,4 @@
 Данный раздел включает в скрипты на Python для формирования собранных статистических данных в единую форму представления.
 ![123](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/90bc8154-cf9f-4907-aa7b-11afe1a49b03)
 ## РЕШЕНИЕ ПРОБЛЕМЫ С ОТОБРАЖНИЕМ СОЗДАННЫХ СКРИПТОМ ТАБЛИЦ МЕТРИК
-![123](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/6ddbbc56-0d63-4993-80d8-1ea06fefead4)
+![1234](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/4476bf0f-c739-457c-91e9-d5666c02ad4a)
