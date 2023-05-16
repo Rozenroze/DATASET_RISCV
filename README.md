@@ -1,7 +1,7 @@
 # DATASET_RISCV
 Датасет реализаций процессорной архитектуры RISC-V.
 	|№|РЕАЛИЗАЦИЯ|АВТОР| 
-	| --- | --- | --- |
+	| ------------------------- |:--------------------:| ---------------------------------------------- |
 	| 1| school_riscv| zhelnio|
 	| 2| ultraembedded_riscv| ultraembedded | 
 	| 3| ultraembedded_biscv| ultraembedded |
@@ -13,7 +13,32 @@
 	| 9| lemon_core| nmoroze |
 	| 10| picorv32a| YosysHQ |
 	
-	
+#### Configuration
+
+| Param Name                | Valid Range          | Description                                   |
+| ------------------------- |:--------------------:| ----------------------------------------------|
+| SUPPORT_SUPER             | 1/0                  | Enable supervisor / user privilege levels.    |
+| SUPPORT_MMU               | 1/0                  | Enable basic memory management unit.          |
+| SUPPORT_MULDIV            | 1/0                  | Enable HW multiply / divide (RV-M).           |
+| SUPPORT_DUAL_ISSUE        | 1/0                  | Support superscalar operation.                |
+| SUPPORT_LOAD_BYPASS       | 1/0                  | Support load result bypass paths.             |
+| SUPPORT_MUL_BYPASS        | 1/0                  | Support multiply result bypass paths.         |
+| SUPPORT_REGFILE_XILINX    | 1/0                  | Support Xilinx optimised register file.       |
+| SUPPORT_BRANCH_PREDICTION | 1/0                  | Enable branch prediction structures.          |
+| NUM_BTB_ENTRIES           | 2 -                  | Number of branch target buffer entries.       |
+| NUM_BTB_ENTRIES_W         | 1 -                  | Set to log2(NUM_BTB_ENTRIES).                 |
+| NUM_BHT_ENTRIES           | 2 -                  | Number of branch history table entries.       |
+| NUM_BHT_ENTRIES_W         | 1 -                  | Set to log2(NUM_BHT_ENTRIES_W).               |
+| BHT_ENABLE                | 1/0                  | Enable branch history table based prediction. |
+| GSHARE_ENABLE             | 1/0                  | Enable GSHARE branch prediction algorithm.    |
+| RAS_ENABLE                | 1/0                  | Enable return address stack prediction.       |
+| NUM_RAS_ENTRIES           | 2 -                  | Number of return stack addresses supported.   |
+| NUM_RAS_ENTRIES_W         | 1 -                  | Set to log2(NUM_RAS_ENTRIES_W).               |
+| EXTRA_DECODE_STAGE        | 1/0                  | Extra decode pipe stage for improved timing.  |
+| MEM_CACHE_ADDR_MIN        | 32'h0 - 32'hffffffff | Lowest cacheable memory address.              |
+| MEM_CACHE_ADDR_MAX        | 32'h0 - 32'hffffffff | Highest cacheable memory address.             |	
+
+
  	 | -----------------SYSTEMVERILOG------------ |
 	| 1		| swerv_eh1	           | westerndigital|
 	| 2		| ibex	               | lowRISC       |
