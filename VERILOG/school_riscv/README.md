@@ -7,7 +7,7 @@
 4. SLTU 
 5. SUB  
 
-    `Данные синтеза доступны по ссылке [на Яндекс диск](https://disk.yandex.ru/d/PEnsOhkM_2gtew)` 
+Данные синтеза доступны по ссылке [на Яндекс диск](https://disk.yandex.ru/d/PEnsOhkM_2gtew) 
     
 ## Принципиальная схема
 ![schoolRISCV](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/5edf4f76-6201-4511-ba63-03640bbaa11e)
