@@ -5,8 +5,10 @@
 2. OR
 3. SRL 
 4. SLTU 
-5. SUB
-    Данные синтеза доступны по ссылке на диск: https://disk.yandex.ru/d/PEnsOhkM_2gtew
+5. SUB  
+
+    Данные синтеза доступны по ссылке на диск: https://disk.yandex.ru/d/PEnsOhkM_2gtew  
+    
 ## Принципиальная схема
 ![schoolRISCV](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/5edf4f76-6201-4511-ba63-03640bbaa11e)
 ## Метрики синтеза OpenLane
