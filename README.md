@@ -1,17 +1,17 @@
 # DATASET_RISCV
 Датасет реализаций процессорной архитектуры RISC-V.
-	|№|РЕАЛИЗАЦИЯ|АВТОР| 
+	| № | РЕАЛИЗАЦИЯ | АВТОР | 
 	| ------------------------- |:--------------------:| ---------------------------------------------- |
-	| 1| school_riscv| zhelnio|
-	| 2| ultraembedded_riscv| ultraembedded | 
-	| 3| ultraembedded_biscv| ultraembedded |
-	| 4| ssrv| risclite|
-	| 5| rv3n| risclite|
-	| 6| dark_riscv| darklife|
-	| 7| steel-core| rafaelcalcada |
-	| 8| vex_riscv| m-labs|
-	| 9| lemon_core| nmoroze |
-	| 10| picorv32a| YosysHQ |
+	| 1 | school_riscv| zhelnio |
+	| 2 | ultraembedded_riscv | ultraembedded | 
+	| 3 | ultraembedded_biscv | ultraembedded |
+	| 4 | ssrv | risclite |
+	| 5 | rv3n | risclite |
+	| 6 | dark_riscv | darklife|
+	| 7 | steel-core | rafaelcalcada |
+	| 8 | vex_riscv | m-labs|
+	| 9 | lemon_core | nmoroze |
+	| 10 | picorv32a | YosysHQ |
 	
 #### Configuration
 
