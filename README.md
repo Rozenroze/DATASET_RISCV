@@ -1,7 +1,7 @@
 # DATASET_RISCV
 Датасет реализаций процессорной архитектуры RISC-V.
-# СОСТАВ ДАТАСЕТА
-## VERILOG
+## СОСТАВ ДАТАСЕТА
+### VERILOG
 | №                | РЕАЛИЗАЦИЯ          | АВТОР                                   |
 |:-------------------------:|:--------------------:|:----------------------------------------------:|
 | 1             | school_riscv                  | zhelnio    |
@@ -14,7 +14,7 @@
 | 8 | vex_riscv                  | m-labs          |
 | 9           | lemon_core                  | nmoroze       |
 | 10         | picorv32a                  | YosysHQ                |
-## SYSTEMVERILOG
+### SYSTEMVERILOG
 | №                | РЕАЛИЗАЦИЯ          | АВТОР                                   |
 |:-------------------------:|:--------------------:|:----------------------------------------------:|
 | 1             | swerv_eh1                  | westerndigital    |
@@ -37,6 +37,7 @@
 | 18         | diablo                 | skudlur                |
 | 19         | cayde                 | skudlur                |
 | 20        | soomrv                 | mathis-s                |
+| width:100% | width:100% | width:100% |
 
 
  	 | -----------------SYSTEMVERILOG------------ |
