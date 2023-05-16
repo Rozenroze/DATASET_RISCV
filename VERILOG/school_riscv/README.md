@@ -8,7 +8,7 @@
 * Поддержка уровней привилегий пользователя, супервизора и машинного режима.
 * Базовая поддержка MMU - возможность загрузки Linux с атомической эмуляцией (RV-A).
 * Реализация базовой спецификации ISA [v2.1](https://github.com/ultraembedded/riscv/tree/master/doc/riscv_isa_spec.pdf) и привилегированной спецификации ISA [v1.11](https://github.com/ultraembedded/riscv/tree/master/doc/riscv_privileged_spec.pdf).
-* Верификация с помощью [Google's RISCV-DV](https://github.com/google/riscv-dv) случайных последовательностей инструкций с использованием косимуляции [C++ ISA model](https://github.com/ultraembedded/exactstep).
+* Верификация с помощью [Google's RISCV-DV](https://github.com/google/riscv-dv) случайных последовательностей инструкций с использованием косимуляции [C++ ISA](https://github.com/ultraembedded/exactstep).
 * Поддержка кэша инструкций/данных, интерфейсов шины AXI или тесно связанной памяти.
 * Настраиваемое количество стадий конвейера и опции пересылки результатов.
 * Синтезируемый Verilog 2001, совместимый с Verilator и FPGA.
