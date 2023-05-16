@@ -1,6 +1,7 @@
 # DATASET_RISCV
 Датасет реализаций процессорной архитектуры RISC-V.
 	| №	  | РЕАЛИЗАЦИЯ	         | АВТОР	       | 
+	| --- | --- | --- |
 	| -------------------VERILOG---------------- |
 	| 1	  | school_riscv	       | zhelnio       |
 	| 2	  | ultraembedded_riscv	 | ultraembedded | 
@@ -12,7 +13,7 @@
 	| 8	  | vex_riscv	           | m-labs        |
 	| 9	  | lemon_core	         | nmoroze       |
 	| 10	| picorv32a	           | YosysHQ       |
-  | -----------------SYSTEMVERILOG------------ |
+ 	 | -----------------SYSTEMVERILOG------------ |
 	| 1		| swerv_eh1	           | westerndigital|
 	| 2		| ibex	               | lowRISC       |
 	| 3		| simple_riscv	       | tilk          |
