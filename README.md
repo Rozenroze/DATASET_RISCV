@@ -15,7 +15,7 @@
 	
 #### Configuration
 
-| Param Name                | Valid Range          | Description                                   |
+| №                | РЕАЛИЗАЦИЯ          | АВТОР                                   |
 | ------------------------- |:--------------------:| ----------------------------------------------|
 | SUPPORT_SUPER             | 1/0                  | Enable supervisor / user privilege levels.    |
 | SUPPORT_MMU               | 1/0                  | Enable basic memory management unit.          |
