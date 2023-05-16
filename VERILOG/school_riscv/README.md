@@ -1,13 +1,14 @@
 # SCHOOL_RISCV
 ## Описание
-Крошечный RISCV процессор. Первоначально основан на MIPS CPU Сары Л. Харрис ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris) и проекте schoolMIPS. Поддерживает только часть команд RISCV:
+Крошечный RISCV процессор. Первоначально основан на MIPS CPU Сары Л. Харрис ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris) и проекте schoolMIPS. Используется в основном для учебных целей и поддерживает только часть команд RISCV:
 1. ADD 
 2. OR
 3. SRL 
 4. SLTU 
 5. SUB
+
 ## Принципиальная схема
-![image](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/d364b310-b9d0-449c-9c04-ae9e6d34da5b)
+![schoolRISCV](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/5edf4f76-6201-4511-ba63-03640bbaa11e)
 ## Метрики синтеза OpenLane
 ![openlane_graph_school_riscv](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/33ecdd12-46ac-4c99-b930-a39cdc7a40c9)
 ## Метрики синтеза Design Compiler
