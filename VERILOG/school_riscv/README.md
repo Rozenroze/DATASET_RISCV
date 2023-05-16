@@ -7,7 +7,8 @@
 4. SLTU 
 5. SUB  
 
-Ссылка на авторский репозитарий [тут](https://github.com/zhelnio/schoolRISCV)
+Ссылка на авторский репозитарий [тут](https://github.com/zhelnio/schoolRISCV)  
+
 Данные синтеза доступны по ссылке на [Яндекс диск](https://disk.yandex.ru/d/PEnsOhkM_2gtew) 
     
 ## Принципиальная схема
