@@ -37,7 +37,7 @@
 | 18         | diablo                 | skudlur                |
 | 19         | cayde                 | skudlur                |
 | 20        | soomrv                 | mathis-s                |
-| width:100% | width:100% | width:100% |
+| <div style="width:290px">property</div> | <div style="width:290px">property</div> | <div style="width:290px">property</div>  |
 
 
  	 | -----------------SYSTEMVERILOG------------ |
