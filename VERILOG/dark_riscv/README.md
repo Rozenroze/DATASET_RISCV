@@ -34,11 +34,11 @@
 * доступ к памяти со смещением
 * мост для 8/16/32-битных шин  
 
-Ссылка на авторский репозитарий [тут](https://github.com/zhelnio/schoolRISCV)  
+Ссылка на авторский репозитарий [тут](https://github.com/darklife/darkriscv)  
 
-Данные синтеза доступны по ссылке на [Яндекс диск](https://disk.yandex.ru/d/PEnsOhkM_2gtew) 
+Данные синтеза доступны по ссылке на [Яндекс диск](https://disk.yandex.ru/d/pdqM_QRTDBQKiQ) 
 
 ## Метрики синтеза OpenLane
-`в работе`
+![image](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/a96db7cf-e8d9-4140-826c-c51d2ce6b66b)
 ## Метрики синтеза Design Compiler
 ![dc_graph_dark_riscv](https://github.com/Rozenroze/DATASET_RISCV/assets/131447538/45c34f88-150c-4f1b-bd1b-98fbb2ef4078)
