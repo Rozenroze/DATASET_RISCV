@@ -1,4 +1,4 @@
-# SCHOOL_RISCV
+# andreili_riscv
 ## Описание
 Крошечный RISCV процессор. Первоначально основан на MIPS CPU Сары Л. Харрис ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris) и проекте schoolMIPS. Используется в основном для учебных целей и поддерживает только часть команд RISCV:
 1. ADD 
